@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'macwebapp1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D7FCB7EBE3F4AF7BBD4C07129FB8E9E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_900F0D6815E0414DB4AD716E742BDD3D }}
           package: .
